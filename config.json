@@ -1,5 +1,5 @@
 {
-	"source_path": "./src",
+	"source_path": "./",
 	"executable_path": "./a.out",
 	"input_path": "./in",
 	"output_path": "./out",
